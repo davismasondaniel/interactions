@@ -59,7 +59,7 @@ You can however change the direction of which the ped faces when doing the inter
 
 **A:** Probably, however you would need to consult codewalker as I am not 100% sure.
 
-You could however use [dpemotes](https://github.com/TayMcKenzieNZ/dpemotes) to perform other sitting animations etc. 
+You could however use [rpemotes](https://github.com/davismasondaniel/rpemotes) to perform other sitting animations etc. 
 
 ------------------------------------------
 
